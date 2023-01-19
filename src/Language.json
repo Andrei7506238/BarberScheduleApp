@@ -1,0 +1,216 @@
+{
+  "============================== LOGIN PAGE ==============================": {},
+  "LP_SUPER_TITLE": "Login Page",
+  "LP_BANNER_PATH": "Res\\LoginBanner.png",
+  "LP_LBL_UNAME" : "Username ",
+  "LP_LBL_PASS" : "Password ",
+  "LP_BTN_LOGIN" : "Login",
+
+  "LP_ERR_WRNGCRED_CONTENT" : "Wrong credentials. Please try again.",
+  "LP_ERR_WRNGCRED_TITLE" : "Auth Error",
+
+
+  "============================== MENU ==============================": {},
+  "MN_HEAD" : "Barber schedule app",
+  "MN_MENU_APP" : "Appointments",
+  "MN_APP_VIEW" : "View Appointments",
+  "MN_APP_ADD" : "Add Appointment",
+  "MN_MENU_CST" : "Customers",
+  "MN_CST_VIEW" : "View Customers",
+  "MN_CST_ADD" : "Add Customer",
+  "MN_MENU_SRV" : "Services",
+  "MN_SRV_VIEW" : "View Services",
+  "MN_SRV_ADD" : "Add Service",
+  "MN_MENU_STF" : "Staff",
+  "MN_STF_VIEW" : "View Staff",
+  "MN_STF_ADD" : "Add Staff",
+
+
+  "============================== DASHBOARD ==============================": {},
+  "DS_WALLPAPER_PATH" : "src/barberWallpaper.jpg",
+  "DS_LOGGED_AS" : "  Logged as",
+  "DS_FOOTER_CONTENT" : "Barber Schedule App",
+  "DS_LBL_DATE" : "Date",
+  "DS_LBL_WEEKDAY" : "Weekday",
+  "DS_LBL_NUMAPPS" : "Apps today:",
+  "DS_LBL_EXPINCOME" : "Expected income",
+  "DS_LBL_TODAYSCH" : "Today Schedule: ",
+  "DS_LBL_NEXTAPP" : "Next app: ",
+  "DS_NONE" : "None",
+
+
+  "============================== APPOINTMENT PAGE ==============================": {},
+  "AP_LBL_STAFF" : "Select Staff : ",
+  "AP_LBL_DATE" : "Enter date (YYYY-MM-DD): ",
+  "AP_BTN_REFRESH" : "Refresh/Reload",
+  "AP_BTN_ADD" : "Add",
+  "AP_BTN_EDIT" : "Edit",
+  "AP_BTN_DELETE" : "Delete",
+  "AP_WEEKDAY_LBL" : "Weekday : ",
+
+  "AP_ERR_INVDATE_CONTENT" :  "The date you entered is not valid. Please enter a valid date.",
+  "AP_ERR_INVDATE_TITLE" : "Invaid date error",
+
+  "AP_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "AP_MSG_DELETE_FAIL" : "Appointment couldn't be deleted.",
+
+  "AP_TBL_HEAD_USERNAME" : "Customer",
+  "AP_TBL_HEAD_SERVICE" : "Service",
+  "AP_TBL_HEAD_TIME" : "Time",
+  "AP_TBL_HEAD_PRICE" : "Price",
+  "AP_TBL_HEAD_NOTE" : "Note",
+
+
+  "============================== CUSTOMER PAGE ==============================": {},
+  "CP_LBL_KEYWORDS" : "Keywords",
+  "CP_BTN_REFRESH" : "Refresh/Reload",
+  "CP_BTN_ADD" : "Add",
+  "CP_BTN_EDIT" : "Edit",
+  "CP_BTN_DELETE" : "Delete",
+
+  "CP_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "CP_MSG_DELETE_FAIL" : "Customer couldn't be deleted.",
+
+  "CP_TBL_HEAD_USERNAME" : "Username",
+  "CP_TBL_HEAD_FNAME" : "First name",
+  "CP_TBL_HEAD_LNAME" : "Last name",
+  "CP_TBL_HEAD_TEL" : "Phone",
+  "CP_TBL_HEAD_NOTE" : "Note",
+
+
+  "============================== SERVICE PAGE ==============================": {},
+  "BP_BTN_REFRESH" : "Refresh/Reload",
+  "BP_BTN_ADD" : "Add",
+  "BP_BTN_EDIT" : "Edit",
+  "BP_BTN_DELETE" : "Delete",
+
+  "BP_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "BP_MSG_DELETE_FAIL" : "Customer couldn't be deleted.",
+
+  "BP_TBL_HEAD_NAME" : "Name",
+  "BP_TBL_HEAD_PRICE" : "Price",
+  "BP_TBL_HEAD_DURATION" : "Duration (mins)",
+
+
+  "============================== Staff PAGE ==============================": {},
+  "SP_LBL_KEYWORDS" : "Keywords",
+  "SP_BTN_REFRESH" : "Refresh/Reload",
+  "SP_BTN_ADD" : "Add",
+  "SP_BTN_EDIT" : "Edit",
+  "SP_BTN_DELETE" : "Delete",
+
+  "SP_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "SP_MSG_DELETE_FAIL" : "Staff couldn't be deleted.",
+
+  "SP_TBL_HEAD_USERNAME" : "Username",
+  "SP_TBL_HEAD_FNAME" : "First name",
+  "SP_TBL_HEAD_LNAME" : "Last name",
+  "SP_TBL_HEAD_TEL" : "Phone",
+  "SP_TBL_HEAD_NOTE" : "Note",
+
+
+  "============================== ADD/EDIT APPOINTMENT PAGE ==============================": {},
+  "EA_SUPER_TITLE": "Appointment",
+
+  "EA_ERR_APPNOTEXIST": "Appointment doesn't exist",
+  "EA_LBL_CUSTOMER": "Select customer",
+  "EA_LBL_SERVICE": "Select service",
+  "EA_LBL_STAFF": "Select staff",
+  "EA_LBL_DATE": "Enter date (YYYY-MM-DD)",
+  "EA_LBL_HOUR": "Enter hour",
+  "EA_LBL_DURATION": "Enter duration (minutes)",
+  "EA_LBL_PRICE": "Enter price (RON)",
+  "EA_LBL_NOTE": "Enter note",
+  "EA_TXA_STATUS": "Status:\n",
+  "EA_TXA_TIMEFRAME": "Timeframe:",
+  "EA_TXA_WORKDAY": " - Workday:",
+  "EA_TXA_CUSTOMER": "\nCustomer:",
+  "EA_TXA_TEL": "\nTel:",
+
+  "EA_BTN_OK" : "Ok",
+  "EA_BTN_CANCEL" : "Cancel",
+  "EA_BTN_CHECK" : "Check",
+
+  "EA_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "EA_MSG_DELETE_FAIL" : "Operation couldn't be registered.",
+
+  "EA_WARN_OUTSIDESCH" : "The reservation is outside ordinary schedule. Are you sure you want to continue ?",
+  "EA_WARN_TIMEFRAME_BUSY" : "This timeframe is already occupied. Are you sure you want to continue ?\nOccupied by appointment: ",
+  "EA_WARN_PAST" : "The date you entered is in the past. Are you sure you want to continue ?",
+
+  "EA_ERROR_INVALID_SELECTION" : "Please select valid customer, service and staff: ",
+  "EA_ERROR_INVALID_DATE" : "Invalid date. Please use the formal YYYY-MM-DD.\nExample : 2022-12-28",
+  "EA_ERROR_INVALID_TIME" : "Invalid time. ",
+  "EA_ERROR_INVALID_DURATION" : "Invalid duration. ",
+  "EA_ERROR_INVALID_PRICE" : "Invalid price. ",
+
+
+  "============================== ADD/EDIT CUSTOMER PAGE ==============================": {},
+  "EC_SUPER_TITLE": "Customer",
+  "EC_ERR_CSTNOEXIST": "Customer doesn't exist",
+  "EC_LBL_USERNAME": "Enter username",
+  "EC_LBL_FNAME": "Enter first name",
+  "EC_LBL_LNAME": "Enter last name",
+  "EC_LBL_TEL": "Enter phone",
+  "EC_LBL_NOTE": "Enter note",
+  "EC_BTN_GEN" : "Gen.",
+
+  "EC_BTN_OK" : "Ok",
+  "EC_BTN_CANCEL" : "Cancel",
+
+  "EC_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "EC_MSG_DELETE_FAIL" : "Operation couldn't be registered.",
+
+  "EC_ERR_ALREADYTAKEN" : "Username already taken. Pick another option.",
+
+
+  "============================== ADD/EDIT SERVICE PAGE ==============================": {},
+  "EB_SUPER_TITLE": "Service",
+  "EB_ERR_SRVNOTEXIST": "Service doesn't exist",
+  "EB_LBL_NAME": "Enter name",
+  "EB_LBL_PRICE": "Entrer price (RON)",
+  "EB_LBL_DURATION": "Enter duration (minutes)",
+
+  "EB_BTN_OK" : "Ok",
+  "EB_BTN_CANCEL" : "Cancel",
+
+  "EB_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "EB_MSG_DELETE_FAIL" : "Operation couldn't be registered.",
+
+  "EB_ERR_TAKEN" : "Name already taken",
+  "EB_ERR_DURATION_NEGATIVE" : "Duration can't be negative",
+  "EB_ERR_DURATION_INVALID" : "Duration invalid",
+  "EB_ERR_PRICE_NEGATIVE" : "Price can't be negative",
+  "EB_ERR_PRICE_INVALID" : "Price invalid",
+
+
+  "============================== ADD/EDIT STAFF PAGE ==============================": {},
+  "ES_SUPER_TITLE": "Staff",
+  "ES_ERR_CSTNOEXIST": "Staff doesn't exist",
+  "ES_LBL_USERNAME": "Enter username",
+  "ES_LBL_FNAME": "Enter first name",
+  "ES_LBL_LNAME": "Enter last name",
+  "ES_LBL_TEL": "Enter phone",
+  "ES_LBL_PASSWORD" : "Change password",
+  "ES_LBL_NOTE": "Enter note",
+  "ES_BTN_GEN" : "Gen.",
+
+  "ES_BTN_OK" : "Ok",
+  "ES_BTN_CANCEL" : "Cancel",
+
+  "ES_MSG_DELETE_SUCCES" : "Operation succesful.",
+  "ES_MSG_DELETE_FAIL" : "Operation couldn't be registered.",
+
+  "ES_ERR_ALREADYTAKEN" : "Username already taken. Pick another option.",
+  "ES_ERR_PASSSIMPLE" : "Password too simple. Pick another option.",
+
+  
+  "============================== WEEKDAYS ==============================": {},
+  "Monday" : "Monday",
+  "Tuesday" : "Tuesday",
+  "Wednesday" : "Wednesday",
+  "Thursday" : "Thursday",
+  "Friday" : "Friday",
+  "Saturday" : "Saturday",
+  "Sunday" : "Sunday"
+}
